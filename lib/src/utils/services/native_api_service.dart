@@ -1,0 +1,1 @@
+// viết những phần sử dụng như camera, thư viện

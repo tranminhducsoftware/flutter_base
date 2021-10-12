@@ -38,7 +38,11 @@ dependencies:
   localstorage: ^4.0.0+1
   flutter_secure_storage: ^4.2.1
   animations: ^2.0.1
-  dio: ^3.0.9
+  dio: ^3.0.10
+  firebase_core: ^1.6.0
+  firebase_messaging: ^10.0.7
+  flutter_local_notifications: ^8.2.0
+  json_annotation: ^4.1.0
 
 dev_dependencies:
   flutter_test:
